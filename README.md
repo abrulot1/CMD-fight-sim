@@ -1,2 +1,1 @@
-# CMD-fight-sim
-Command line only fight simulator
+A text based fighting tournament simulator.  This program uses queues and stacks to hold fighters.  The program uses inheritance and polymorphism to create the unique fighter classes derived from an original "Creature" class.  This was a school project, the grade for this assignment was 100.
